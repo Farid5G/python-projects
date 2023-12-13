@@ -1,0 +1,20 @@
+Create a Simple BrandName Generator using variables and input Function of python
+
+tasks:-
+1. welcome the user 
+2.create two variables - cityName , PetName
+3.Take userInput and store into PetName and cityName 
+4.Store it into variable BrandName 
+5.print the BrandName 
+
+Pre-requistes:-
+1.basic print function - https://learnpython.org/en/Hello%2C_World%21
+2.Knowing about Variables - https://learnpython.org/en/Variables_and_Types
+3.basic input function - https://www.geeksforgeeks.org/taking-input-in-python/
+
+Input:-
+Enter the Name of your city:paris
+Enter the Name of your Pet :dog
+
+Output:-
+Your BrandName could be ParisDog
